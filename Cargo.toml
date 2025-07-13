@@ -1,0 +1,11 @@
+[package]
+name = "swizzle"
+version = "0.1.0"
+edition = "2024"
+authors = ["bendn <bend.n@outlook.com>"]
+description = "swizzling for arrays (and tuples)"
+repository = "https://github.com/bend-n/swizzle"
+license = "MIT"
+
+[package.metadata.docs.rs]
+rustdoc-args = ["--generate-link-to-definition"]
